@@ -1,0 +1,79 @@
+[
+  {
+    "id": "drill_001",
+    "name": "Goblet Squat",
+    "sport": "general",
+    "targets": ["knee_valgus", "hip_hinge", "depth"],
+    "description": "Hold dumbbell at chest. Feet shoulder-width, toes out. Squat deep keeping knees over toes. Elbows push knees out at bottom.",
+    "coaching_cues": ["Chest tall", "Knees out", "Sit between your heels"],
+    "difficulty": "beginner",
+    "equipment": ["dumbbell"],
+    "injury_safe_for": ["knee_valgus", "hip_weakness"]
+  },
+  {
+    "id": "drill_002",
+    "name": "Single Leg Romanian Deadlift",
+    "sport": "general",
+    "targets": ["hamstring", "hip_stability", "asymmetry"],
+    "description": "Stand on one leg, hinge at hip pushing free leg back. Keep spine neutral. Return by driving hip forward.",
+    "coaching_cues": ["Hip hinge not back bend", "Soft knee on standing leg", "Eyes 2 feet ahead"],
+    "difficulty": "intermediate",
+    "equipment": ["none"],
+    "injury_safe_for": ["hamstring_strain", "hip_asymmetry"]
+  },
+  {
+    "id": "drill_003",
+    "name": "Copenhagen Plank",
+    "sport": "soccer",
+    "targets": ["adductor", "groin", "hip_stability"],
+    "description": "Side plank with top foot on bench, bottom leg hanging. Best adductor exercise for groin injury prevention.",
+    "coaching_cues": ["Stack hips", "Do not let bottom hip drop", "Breathe steadily"],
+    "difficulty": "advanced",
+    "equipment": ["bench"],
+    "injury_safe_for": ["groin_strain", "adductor_weakness"]
+  },
+  {
+    "id": "drill_004",
+    "name": "Nordic Hamstring Curl",
+    "sport": "soccer",
+    "targets": ["hamstring", "eccentric_strength"],
+    "description": "Kneel with feet anchored. Lower body to floor as slowly as possible using hamstrings. Catch with hands.",
+    "coaching_cues": ["As slow as possible on way down", "Keep hips extended", "Do not use back"],
+    "difficulty": "advanced",
+    "equipment": ["anchor_point"],
+    "injury_safe_for": ["hamstring_injury_prevention"]
+  },
+  {
+    "id": "drill_005",
+    "name": "Box Jump Landing",
+    "sport": "basketball",
+    "targets": ["landing", "knee_valgus", "deceleration"],
+    "description": "Step off box, focus on landing softly. Knees track toes, hips back. Hold 2 seconds.",
+    "coaching_cues": ["Quiet landing", "Knees do not cave", "Soft like a cat"],
+    "difficulty": "beginner",
+    "equipment": ["box"],
+    "injury_safe_for": ["ACL_prevention", "knee_valgus"]
+  },
+  {
+    "id": "drill_006",
+    "name": "Hip Thrust",
+    "sport": "general",
+    "targets": ["glute", "hip_extension", "knee_valgus"],
+    "description": "Upper back on bench, barbell across hips. Drive hips up squeezing glutes at top.",
+    "coaching_cues": ["Squeeze glutes hard at top", "Chin tucked", "Knees over toes"],
+    "difficulty": "beginner",
+    "equipment": ["bench", "barbell"],
+    "injury_safe_for": ["knee_valgus", "weak_glutes"]
+  },
+  {
+    "id": "drill_007",
+    "name": "Lateral Band Walk",
+    "sport": "general",
+    "targets": ["glute_med", "hip_abduction", "knee_stability"],
+    "description": "Band around ankles. Slight squat. Walk sideways 10 steps each direction keeping band taut.",
+    "coaching_cues": ["Stay low", "Do not let band go slack", "Toes forward"],
+    "difficulty": "beginner",
+    "equipment": ["resistance_band"],
+    "injury_safe_for": ["knee_valgus", "hip_weakness"]
+  }
+]

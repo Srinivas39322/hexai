@@ -1,0 +1,34 @@
+[
+  {
+    "id": "rule_001",
+    "trigger": "knee_valgus_high",
+    "threshold": 20,
+    "level": "amber",
+    "message": "Elevated knee valgus detected. Reduce load and focus on hip strengthening.",
+    "clinical_note": "Persistent knee valgus under load increases ACL stress. If pain present, consult a sports medicine professional."
+  },
+  {
+    "id": "rule_002",
+    "trigger": "asymmetry_high",
+    "threshold": 0.3,
+    "level": "amber",
+    "message": "Significant left-right asymmetry detected. Address weaker side before increasing volume.",
+    "clinical_note": "Asymmetry above 15% between limbs is associated with increased injury risk."
+  },
+  {
+    "id": "rule_003",
+    "trigger": "fatigue_index_critical",
+    "threshold": 0.8,
+    "level": "red",
+    "message": "Critical fatigue detected. Stop high-intensity work immediately.",
+    "clinical_note": "Training under extreme fatigue significantly elevates injury risk. End session now."
+  },
+  {
+    "id": "rule_004",
+    "trigger": "trunk_lean_excessive",
+    "threshold": 20,
+    "level": "amber",
+    "message": "Excessive forward trunk lean detected. Risk of lower back overload.",
+    "clinical_note": "Forward trunk lean beyond 20 degrees increases lumbar spine compressive forces."
+  }
+]
